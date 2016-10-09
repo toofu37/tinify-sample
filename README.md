@@ -8,7 +8,7 @@ https://tinypng.com/
 ```
 node index.js 画像をまとめたディレクトリ
 ```
-実行すると、画像をまとめたディレクトリ内に`result/`ができ、その中に元と同じファイル名で軽量化された画像が格納される。
+実行すると、画像をまとめたディレクトリ内に`compressed/`ができ、その中に元と同じファイル名で軽量化された画像が格納される。
 
 ## how-to-set API-Key
 tinyPNGのサイトでAPI-Keyを発行したら、`index.js`と同じディレクトリに`config.js`を作成し、取得したAPI-Keyを記載する。
