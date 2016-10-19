@@ -13,5 +13,5 @@ node index.js 画像をまとめたディレクトリ
 ## how-to-set API-Key
 tinyPNGのサイトでAPI-Keyを発行したら、`index.js`と同じディレクトリに`config.js`を作成し、取得したAPI-Keyを記載する。
 ```
-exports.YOUR_TINPYNG_API_KEY = '取得したAPI Key';
+exports.YOUR_TINYPNG_API_KEY = '取得したAPI Key';
 ```
